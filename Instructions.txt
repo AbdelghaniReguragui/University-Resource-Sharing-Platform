@@ -1,0 +1,16 @@
+Password for all users: mundiapolis
+
+
+Ids:
+
+	admins:
+		abdelghanireguragui@gmail.com
+
+
+	enseignants:
+		abdelghanireguragui@gmail.com
+
+
+	etudiants:
+		abdelghanireguragui@gmail.com
+
